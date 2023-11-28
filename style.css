@@ -31,6 +31,7 @@ body {
 
 .about {
     border: none;
+    margin-left: 0.5rem;
     background-color: gray;
     border-radius: 10px;
     transition: background-color 0.5s ease;
@@ -76,6 +77,7 @@ footer {
     background-color: black;
     font-size: medium;
     padding: 30px;
+    border-top: 0.1rem solid #fff;
 }
 
 footer .right {
@@ -135,4 +137,12 @@ a.link-footer:hover {
 
 .img:hover {
     width: 150;
+}
+
+.carrousel-icon {
+    background-color: rgba(0, 0, 0, 0.219) !important;
+}
+
+#title3 {
+    text-align: center;
 }

@@ -13,5 +13,7 @@ button.addEventListener("click", function(e) {
         document.querySelector("#text-introdution2").textContent = "Our product integrates with SIGA data, automating the linking of teacher data between SIGA and GTA. It has a simple design, well-described functionalities and offers a comfortable experience for all users. It also includes functions that help with the administration of idle rooms and laboratories in the institution."
         document.querySelector("#designed-by").textContent = "Designed by"
         document.querySelector(".about").textContent = "Discover more"
+        document.querySelector("#title3").textContent = "Institutions that use our system"
+        document.querySelector("#rigths").textContent = "©️Copyright 2023. All rights reserved."
     }
 })
