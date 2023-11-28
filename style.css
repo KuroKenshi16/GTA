@@ -132,3 +132,7 @@ a.link-footer:hover {
     float: left;
     margin-right: 1rem;
 }
+
+.img:hover {
+    width: 150;
+}
